@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\soklundy\AndroidStudioProjects\TN\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Users\soklundy\AndroidStudioProjects\TN\app\build\intermediates\pre-dexed\debug\classes-fd2eedc9f3369af2eab6c42657cb27bd5b160c6c.jar" />
+    </item>
+    <item
+        jar="C:\Users\soklundy\AndroidStudioProjects\TN\app\libs\KGJsonConverter.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cea743dc2e193922f7e7dc34858ef15b00afc6db">
+        <dex dex="C:\Users\soklundy\AndroidStudioProjects\TN\app\build\intermediates\pre-dexed\debug\KGJsonConverter-daad55261d03b5d6779b0b4ccdf58b14373430d4.jar" />
+    </item>
+    <item
+        jar="C:\Users\soklundy\AndroidStudioProjects\TN\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\soklundy\AndroidStudioProjects\TN\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-6371cd8896f533f56a0637d08dbb9824eed33126.jar" />
+    </item>
+    <item
+        jar="C:\Users\soklundy\AndroidStudioProjects\TN\app\build\intermediates\exploded-aar\com.github.amigold.fundapter\library\1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="12e67307b10da7aad1bd09af41f281a2fed08d96">
+        <dex dex="C:\Users\soklundy\AndroidStudioProjects\TN\app\build\intermediates\pre-dexed\debug\classes-eb0c1edd65819cd8c52b35525556c78c657a85e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\soklundy\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.4\dd9eeb557650c4ad7394df23f0f5cf27a7cfc697\universal-image-loader-1.9.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="C:\Users\soklundy\AndroidStudioProjects\TN\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.4-a18613239c66237508fa3224fe521a31ea0894a3.jar" />
+    </item>
+    <item
+        jar="C:\Users\soklundy\AndroidStudioProjects\TN\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\soklundy\AndroidStudioProjects\TN\app\build\intermediates\pre-dexed\debug\classes-ed601337504d5e93e9d1a6de83b1f297295335e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\soklundy\AndroidStudioProjects\TN\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\soklundy\AndroidStudioProjects\TN\app\build\intermediates\pre-dexed\debug\classes-bccba53b3652df8148256f5c3a26da866eacedf0.jar" />
+    </item>
+    <item
+        jar="C:\Users\soklundy\AndroidStudioProjects\TN\app\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\soklundy\AndroidStudioProjects\TN\app\build\intermediates\pre-dexed\debug\gson-2.2.4-624c8bbabc7e8cbe97c5c620266b1b40c88f20b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\soklundy\AndroidStudioProjects\TN\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\soklundy\AndroidStudioProjects\TN\app\build\intermediates\pre-dexed\debug\classes-fd57e6b694db360d23a3a881fa7525606b55f77c.jar" />
+    </item>
+    <item
+        jar="C:\Users\soklundy\AndroidStudioProjects\TN\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\soklundy\AndroidStudioProjects\TN\app\build\intermediates\pre-dexed\debug\classes-e3b5e0b545e508495931adf3e0033a1f1259da58.jar" />
+    </item>
+    <item
+        jar="C:\Users\soklundy\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\soklundy\AndroidStudioProjects\TN\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-6ec89d155b56fb19d88f5af1c509714b07e714c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\soklundy\AndroidStudioProjects\TN\app\build\intermediates\exploded-aar\com.h6ah4i.android.materialshadowninepatch\materialshadowninepatch\0.6.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5122a0989285541f4bfd328d8534e7d7d293d945">
+        <dex dex="C:\Users\soklundy\AndroidStudioProjects\TN\app\build\intermediates\pre-dexed\debug\classes-0e320acbfe5e52d8fc6cc86bef07ef1986c48873.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TN</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sub_content">SubContent</string>
+    <string name="title_activity_sub_con">SubCon</string>
+    <string name="title_activity_content_detail">ContentDetail</string>
+</resources>
